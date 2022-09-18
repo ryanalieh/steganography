@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-#
-# Copyright(C) 2021 wuyaoping
-#
-# DCT algorithm has great a robust but lower capacity.
-
 import numpy as np
 import os.path as osp
 import cv2
@@ -122,6 +116,3 @@ def extract(path):
 
 if __name__ == '__main__':
     data = 'A collection of simple python mini projects to enhance your Python skills.'
-    res_path = insert('./example.png', data)
-    res = extract(res_path)
-    print(res)
