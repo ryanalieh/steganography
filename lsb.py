@@ -72,7 +72,4 @@ def decode(block):
 
 
 if __name__ == '__main__':
-    data = 'A collection of simple python mini projects to enhance your Python skills.'
-    res_path = insert(input_path, data)
-    res = extract(res_path)
-    print(res)
+    data = 'A simple python project to enhance my skills.'
