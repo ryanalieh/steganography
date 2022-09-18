@@ -115,4 +115,4 @@ def extract(path):
 
 
 if __name__ == '__main__':
-    data = 'A collection of simple python mini projects to enhance your Python skills.'
+    data = 'A simple python project to enhance my skills.'
